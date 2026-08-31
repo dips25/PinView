@@ -32,3 +32,9 @@ val pinView:PasswordView = findViewById(R.id.pin_view)
 
         }
 ```
+
+<img width="720" height="1650" alt="Screenshot_2026-08-31-16-33-26-434_com pins pinviewotp" src="https://github.com/user-attachments/assets/ae1f63da-7e1c-40be-b0ea-2b3748f9a680" />
+<img width="720" height="1650" alt="Screenshot_2026-08-31-16-33-18-490_com pins pinviewotp" src="https://github.com/user-attachments/assets/bf00e4d5-8448-4f2a-b4b2-26e86c776a7b" />
+
+Files-https://drive.google.com/drive/folders/1CQ9WjNy1jZQtKFN8IDevKNYYY3F2Q6pT?usp=sharing
+
